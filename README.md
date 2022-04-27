@@ -68,3 +68,7 @@ Nesse caso estamos criando uma rota para que a aplicação React fique na raiz d
 Assim sua aplicação já deve estar no ar. No nosso caso retornará essa página:
 
 ![Aplicação padrão react com node rodando.](https://i.imgur.com/gDtS5dD.png)
+
+### Referência
+
+[React com Node.JS: como fazer deploy - King Host](https://king.host/wiki/artigo/fazer-deploy-de-react-com-node-js/)

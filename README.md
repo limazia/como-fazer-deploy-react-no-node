@@ -72,3 +72,5 @@ Assim sua aplicação já deve estar no ar. No nosso caso retornará essa págin
 ### Referência
 
 [React com Node.JS: como fazer deploy - King Host](https://king.host/wiki/artigo/fazer-deploy-de-react-com-node-js/)
+[How to Render a React App Using an Express Server in Node.js](https://levelup.gitconnected.com/how-to-render-react-app-using-express-server-in-node-js-a428ec4dfe2b)
+[How You Can Serve React Build Folder From an Express Endpoint](https://javascript.plainenglish.io/how-you-can-serve-react-js-build-folder-from-an-express-end-point-127e236e4d67)
